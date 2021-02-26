@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/skeleton-loaders/static/css/main.6c2dd98b.chunk.css",
+    "main.js": "/skeleton-loaders/static/js/main.d9ec26a4.chunk.js",
+    "main.js.map": "/skeleton-loaders/static/js/main.d9ec26a4.chunk.js.map",
+    "runtime-main.js": "/skeleton-loaders/static/js/runtime-main.126b1081.js",
+    "runtime-main.js.map": "/skeleton-loaders/static/js/runtime-main.126b1081.js.map",
+    "static/js/2.2b245d56.chunk.js": "/skeleton-loaders/static/js/2.2b245d56.chunk.js",
+    "static/js/2.2b245d56.chunk.js.map": "/skeleton-loaders/static/js/2.2b245d56.chunk.js.map",
+    "index.html": "/skeleton-loaders/index.html",
+    "static/css/main.6c2dd98b.chunk.css.map": "/skeleton-loaders/static/css/main.6c2dd98b.chunk.css.map",
+    "static/js/2.2b245d56.chunk.js.LICENSE.txt": "/skeleton-loaders/static/js/2.2b245d56.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.126b1081.js",
+    "static/js/2.2b245d56.chunk.js",
+    "static/css/main.6c2dd98b.chunk.css",
+    "static/js/main.d9ec26a4.chunk.js"
+  ]
+}
